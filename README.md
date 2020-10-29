@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api/pin/?username=jhj9109&repo=github-readme-stats&cache_seconds=86400&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+![jhj9109's github stats](https://github-readme-stats.vercel.app/api?username=jhj9109&show_icons=true&theme=dracula)
 <!--
 **jhj9109/jhj9109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
