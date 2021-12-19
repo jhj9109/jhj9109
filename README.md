@@ -1,7 +1,6 @@
 ### Hi there 👋
 ![jhj9109's github stats](https://github-readme-stats.vercel.app/api?username=jhj9109&show_icons=true&theme=dracula&count_private=true&show_icons=true)<br>
-🌱 I’m currently learning AI (Computer Vision)
-🌱 I learned React & Vue.
+🌱 I learned React & Vue & AI (Computer Vision).
 <!--
 **jhj9109/jhj9109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
